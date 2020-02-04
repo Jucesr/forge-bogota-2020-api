@@ -1,0 +1,138 @@
+[
+  {
+    "measurementType": 1,
+    "id": 0,
+    "picks": [
+      null,
+      {
+        "geomType": 0,
+        "snapNode": null,
+        "geomVertex": {
+          "x": 0.34846709854900837,
+          "y": 0.7048235774803363,
+          "z": 0
+        },
+        "geomEdge": null,
+        "geomFace": null,
+        "radius": 0.00586250166755896,
+        "intersectPoint": {
+          "x": 0.34846709854900837,
+          "y": 0.7048235774803363,
+          "z": 0
+        },
+        "faceNormal": null,
+        "viewportIndex2d": null,
+        "circularArcCenter": null,
+        "circularArcRadius": null,
+        "fromTopology": false,
+        "isPerpendicular": false,
+        "id": 1
+      },
+      {
+        "geomType": 0,
+        "snapNode": null,
+        "geomVertex": {
+          "x": 0.4434396270662546,
+          "y": 0.7423435881527325,
+          "z": 0
+        },
+        "geomEdge": null,
+        "geomFace": null,
+        "radius": 0.00586250166755896,
+        "intersectPoint": {
+          "x": 0.4434396270662546,
+          "y": 0.7423435881527325,
+          "z": 0
+        },
+        "faceNormal": null,
+        "viewportIndex2d": null,
+        "circularArcCenter": null,
+        "circularArcRadius": null,
+        "fromTopology": false,
+        "isPerpendicular": false,
+        "id": 2
+      }
+    ],
+    "closedArea": false,
+    "angle": 0,
+    "distanceX": 5.186766357421877,
+    "distanceY": 2.0490928495217986,
+    "distanceZ": 0,
+    "distanceXYZ": 5.576856350350507,
+    "result": {
+      "distanceXYZ": 5.576856350350507,
+      "distanceX": 5.186766357421877,
+      "distanceY": 2.0490928495217986,
+      "distanceZ": 0,
+      "type": 1
+    }
+  },
+  {
+    "measurementType": 1,
+    "id": 1,
+    "picks": [
+      null,
+      {
+        "geomType": 0,
+        "snapNode": null,
+        "geomVertex": {
+          "x": 0.4956158927331369,
+          "y": 0.619817303300689,
+          "z": 0
+        },
+        "geomEdge": null,
+        "geomFace": null,
+        "radius": 0.00586250166755896,
+        "intersectPoint": {
+          "x": 0.4956158927331369,
+          "y": 0.619817303300689,
+          "z": 0
+        },
+        "faceNormal": null,
+        "viewportIndex2d": null,
+        "circularArcCenter": null,
+        "circularArcRadius": null,
+        "fromTopology": false,
+        "isPerpendicular": false,
+        "id": 1
+      },
+      {
+        "geomType": 0,
+        "snapNode": null,
+        "geomVertex": {
+          "x": 0.325017091507713,
+          "y": 0.6309560564690565,
+          "z": 0
+        },
+        "geomEdge": null,
+        "geomFace": null,
+        "radius": 0.00586250166755896,
+        "intersectPoint": {
+          "x": 0.325017091507713,
+          "y": 0.6309560564690565,
+          "z": 0
+        },
+        "faceNormal": null,
+        "viewportIndex2d": null,
+        "circularArcCenter": null,
+        "circularArcRadius": null,
+        "fromTopology": false,
+        "isPerpendicular": false,
+        "id": 2
+      }
+    ],
+    "closedArea": false,
+    "angle": 0,
+    "distanceX": 9.316969197591153,
+    "distanceY": 0.6083244397017751,
+    "distanceZ": 0,
+    "distanceXYZ": 9.336807465766915,
+    "result": {
+      "distanceXYZ": 9.336807465766915,
+      "distanceX": 9.316969197591153,
+      "distanceY": 0.6083244397017751,
+      "distanceZ": 0,
+      "type": 1
+    }
+  }
+]
