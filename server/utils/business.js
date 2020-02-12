@@ -55,17 +55,10 @@ const convertObjToDesignAutomationFormat = (arrayOfMeasurementWalls, factor) => 
 
 const sleep = (waitTimeInMs) => new Promise(resolve => setTimeout(resolve, waitTimeInMs));
 
-// const objectToString = (obj) => Object.keys(obj).reduce((acum, key, index) => {
-//    const value = obj[key]
-//    return `${acum} '${key}': ${typeof value == 'string' ? `'${value}'` : value} ${index == Object.keys(obj).length - 1 ? '' : ','} `
-// }, '') 
-
 const replaceAll = (text, search, replacement) => {
    text = text.replace(new RegExp(search, 'g'), replacement);
    return text;
 };
-
-
 
 const objectToString = (obj) => {
    let json = JSON.stringify(obj);
