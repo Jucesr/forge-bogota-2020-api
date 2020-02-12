@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/start.js",
     "dev": "nodemon server/server.js",
     "compile": "webpack --config=webpack.js --env.BUILD_TASK=lmv-extensions --env.BUILD_PROD=true"
   },
